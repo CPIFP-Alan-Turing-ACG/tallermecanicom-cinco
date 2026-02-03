@@ -1,7 +1,7 @@
 public class GestorReparaciones {
     public void procesarReparacion() {
         // TODO: Implementar lógica (Alumno B)
-        System.out.println("Primera reparacion coche a");
+        System.out.println("Primera reparacion coche ab");
         // En la zona del TODO del Alumno B escribe:
 
 
